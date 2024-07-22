@@ -1,0 +1,10 @@
+2024-06-01 15:00:27 my_function ok
+2024-06-01 15:00:32 my_function ok
+2024-06-01 15:00:35 my_function ok
+2024-06-01 15:00:36 error_function error: ValueError. Inputs: (1, 2), {}
+2024-06-01 15:12:17 my_function ok
+2024-06-01 15:12:17 my_function ok
+2024-06-01 15:12:17 my_function ok
+2024-06-01 15:12:17 my_function ok
+2024-06-01 15:12:17 my_function ok
+2024-06-01 15:12:17 my_function ok
